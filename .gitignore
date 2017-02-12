@@ -1,11 +1,9 @@
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
-.txt
-.jpg
-.png
-.mtx
-.t
-.csv
+*.txt
+*.jpg
+*.png
+*.mtx
+*.t
+*.csv
 */.idea/*
-.DS_Store
-
