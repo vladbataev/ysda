@@ -1,2 +1,2 @@
-# yad
-Tasks done during studying at yad
+# ysda
+Tasks done during studying at yandex school of data analysis
